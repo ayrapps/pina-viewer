@@ -93,6 +93,12 @@ Everything, including key bindings, lives in one readable file:
 
 Sorted keys, plain JSON — it can go straight into your dotfiles.
 
+## Support
+
+This is a one-person project with no company behind it. If it earns a place in
+your day, you can [sponsor it](https://github.com/sponsors/lynthey). Everything
+here stays free either way.
+
 ## About the screenshots
 
 The book shown is Hokusai's *Thirty-six Views of Mount Fuji* (c. 1830–33), in the
