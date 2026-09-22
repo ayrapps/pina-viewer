@@ -26,14 +26,14 @@ tree reads as one continuous thing without ever leaving full screen.
 
 ## Install
 
-    brew tap lynthey/tap
-    brew trust lynthey/tap
+    brew tap ayrapps/tap
+    brew trust ayrapps/tap
     brew install --cask pina-viewer
 
 `brew trust` is required for third-party taps on Homebrew 6 and later; without
 it the install stops with "Refusing to load cask from untrusted tap".
 
-Or download the zip from [Releases](https://github.com/lynthey/pina-viewer/releases),
+Or download the zip from [Releases](https://github.com/ayrapps/pina-viewer/releases),
 unpack it, and move `Pina Viewer.app` into `/Applications`.
 
 Requires macOS 13 (Ventura) or later.
