@@ -48,13 +48,13 @@ Requires macOS 13 (Ventura) or later.
 | `Space` | Next page — or play/pause on a video |
 | `F` | Full screen |
 | `W` | Fit height ↔ fit width |
-| `2` | One page or two |
-| `B` | Right-bound ↔ left-bound |
+| `D` | One page or two |
+| `G` | Right-bound ↔ left-bound |
 | `T` | Thumbnail grid |
 | `C` | Collage wall |
 | `S` | Slideshow |
-| `D` | Sorting — pick pages and delete them |
-| `I` | Info overlay |
+| `E` | Sorting — pick pages and delete them |
+| `V` | Info overlay |
 | `?` | Everything else |
 
 Every binding can be changed in Settings.
@@ -95,9 +95,8 @@ Sorted keys, plain JSON — it can go straight into your dotfiles.
 
 ## Support
 
-This is a one-person project with no company behind it. If it earns a place in
-your day, you can [sponsor it](https://github.com/sponsors/lynthey). Everything
-here stays free either way.
+A hobby project, with no company behind it. It stays free either way — but if it
+has earned a place in your day, [buy me a coffee](https://github.com/sponsors/lynthey).
 
 ## About the screenshots
 
